@@ -1,0 +1,8 @@
+C:\Users\Linguistico\Documents\Desktop\Classi astratte\Classi astratte\bin\Debug\Classi astratte.exe.config
+C:\Users\Linguistico\Documents\Desktop\Classi astratte\Classi astratte\obj\Debug\Classi astratte.csprojResolveAssemblyReference.cache
+C:\Users\cad\Downloads\Classi astratte (1)\Classi astratte\Classi astratte\bin\Debug\Classi astratte.exe.config
+C:\Users\cad\Downloads\Classi astratte (1)\Classi astratte\Classi astratte\obj\Debug\Classi astratte.csprojResolveAssemblyReference.cache
+C:\Users\cad\Downloads\Classi astratte (1)\Classi astratte\Classi astratte\bin\Debug\Classi astratte.exe
+C:\Users\cad\Downloads\Classi astratte (1)\Classi astratte\Classi astratte\bin\Debug\Classi astratte.pdb
+C:\Users\cad\Downloads\Classi astratte (1)\Classi astratte\Classi astratte\obj\Debug\Classi astratte.exe
+C:\Users\cad\Downloads\Classi astratte (1)\Classi astratte\Classi astratte\obj\Debug\Classi astratte.pdb
